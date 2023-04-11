@@ -1,2 +1,4 @@
+http://example.com/2023/04/11/hello/
+http://example.com/2023/04/11/log/
 http://example.com/2023/04/11/hello-world/
 http://example.com/
